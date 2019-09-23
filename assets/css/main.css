@@ -3095,7 +3095,7 @@ input, select, textarea {
 				transition-delay: 0s;
 				display: block;
 				margin: 0 0 1.5em 0;
-				width: 100px;
+				width: 25%;
 			}
 
 				#header.alt .logo img {
