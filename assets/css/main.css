@@ -3765,10 +3765,12 @@ input, select, textarea {
 			}
 
 		}
-#mainheader {
-	color: #4D3394
-}
+
 
 #uria {
 	color: #ED1B24;
+}
+
+.mainheader {
+	color: #4D3394
 }
