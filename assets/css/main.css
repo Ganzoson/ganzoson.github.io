@@ -3240,6 +3240,7 @@ input, select, textarea {
 
 		#nav + #main {
 			padding-top: 4.25em;
+			/*opacity: 0.6;*/
 		}
 
 		#nav ul {
